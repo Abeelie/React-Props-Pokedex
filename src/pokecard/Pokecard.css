@@ -1,0 +1,17 @@
+div.card {
+    width: 300px;
+    background-color: lightgray;
+}
+
+.card-title {
+    font-size: 20px;
+    background-color: lightgray;
+}
+
+.Pokecard-image {
+    background-color: lightgray;
+}
+
+.Pokecard-data {
+    background-color: lightgray;
+}
